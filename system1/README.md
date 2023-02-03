@@ -1,0 +1,1 @@
+教你做一个系统 instruu vin fari sistemon 你们可能会觉得制作一个系统很难(比如iOS，unix，Linux) Vi povas trovi malfacile konstrui sistemon (kiel iOS, Unix, Linux) 但是，这个系统虽然很小，但是能够启动，对于制作一个大系统，这是一个开始！ Sed kvankam la sistemo estas malgranda, ĝi povas komenci. Tio estas la komenco de krei grandan sistemon!
